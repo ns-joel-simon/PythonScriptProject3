@@ -1,3 +1,8 @@
+"""1. write a Python script that runs every 10 min
+   2.It checks the internet connection in the system
+   3.update all the logs
+   4.use - log4j for logging"""
+
 import json
 import time
 import logging
